@@ -1,0 +1,10 @@
+   /* Estilo para as imagens */
+   .image-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.image-container img {
+    width: 300px;
+    height: 300px;
+    margin: 15px;
+}

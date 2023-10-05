@@ -1,0 +1,20 @@
+{ "imagens" : 
+    [
+        {"imgUrl": "./img/R.jpeg"},
+        {"imgUrl": "./img/R1.jpeg"},
+        {"imgUrl": "./img/R2.jpeg"},
+        {"imgUrl": "./img/R3.jpg"},
+        {"imgUrl": "./img/R4.jpg"},
+        {"imgUrl": "./img/R5.jpg"},
+        {"imgUrl": "./img/R6.jpg"},
+        {"imgUrl": "./img/R7.jpg"},
+        {"imgUrl": "./img/R8.jpg"},
+        {"imgUrl": "./img/R9.jpeg"},
+        {"imgUrl": "./img/R10.jpg"},
+        {"imgUrl": "./img/R11.png"},
+        {"imgUrl": "./img/R12.jpg"},
+        {"imgUrl": "./img/R13.jpeg"},
+        {"imgUrl": "./img/R14.jpeg"},
+        {"imgUrl": "./img/R15.jpg"}
+    ]   
+}
